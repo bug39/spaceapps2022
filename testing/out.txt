@@ -1,0 +1,5186 @@
+{
+    "stats": {
+        "took": 331,
+        "total": 601385,
+        "estimate": false,
+        "maxScore": 0
+    },
+    "results": [
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "geophysics"
+            ],
+            "created": "2022-09-16T04:24:13.931628+00:00",
+            "distributionDate": "2019-05-24T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX14AG16A",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Mapping the Lunar Wake Potential Structure With ARTEMIS Data",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Shaosui Xu"
+                        },
+                        "organization": {
+                            "name": "Space Sciences Laboratory University of California  Berkeley CA USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Andrew R. Poppe"
+                        },
+                        "organization": {
+                            "name": "Space Sciences Laboratory University of California  Berkeley CA USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Jasper S. Halekas"
+                        },
+                        "organization": {
+                            "name": "Department of Physics and Astronomy University of Iowa  Iowa City IA USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "David L. Mitchell"
+                        },
+                        "organization": {
+                            "name": "Space Sciences Laboratory University of California  Berkeley CA USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "James P. McFadden"
+                        },
+                        "organization": {
+                            "name": "Space Sciences Laboratory University of California  Berkeley CA USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Yuki Harada"
+                        },
+                        "organization": {
+                            "name": "Department of Geophysics Kyoto University  Kyoto Japan"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "27049164558730",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1029/2019ja026536"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "124",
+                    "pages": "3360-3377",
+                    "issue": "5",
+                    "issn": "2169-9380",
+                    "publisher": "American Geophysical Union (AGU)",
+                    "eissn": "2169-9402",
+                    "publicationName": "Journal of Geophysical Research: Space Physics",
+                    "issuePublicationDate": "2019-05-01T00:00:00",
+                    "publicationDate": "2019-05-24T00:00:00",
+                    "doi": "10.1029/2019ja026536"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "atmospheric science"
+            ],
+            "created": "2022-09-16T04:24:13.980263+00:00",
+            "distributionDate": "2019-12-28T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "80NSSC17K0402",
+                    "type": "funding"
+                },
+                {
+                    "number": "AGS-1703029",
+                    "type": "funding"
+                },
+                {
+                    "number": "AGS-1401400",
+                    "type": "funding"
+                },
+                {
+                    "number": "80NSSC17K0265",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Investigating the Causes of Increased Twentieth-Century Fall Precipitation over the Southeastern United States",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Daniel A. Bishop"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "A. Park Williams"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Richard Seager"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Arlene M. Fiore"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Benjamin I. Cook"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Justin S. Mankin"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Deepti Singh"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Jason E. Smerdon"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Mukund P. Rao"
+                        },
+                        "organization": {
+                            "name": "Lamont-Doherty Earth Observatory, Columbia University, Palisades, New York"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "29200975319609",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1175/jcli-d-18-0244.1"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "32",
+                    "pages": "575-590",
+                    "issue": "2",
+                    "issn": "0894-8755",
+                    "publisher": "American Meteorological Society",
+                    "eissn": "1520-0442",
+                    "publicationName": "Journal of Climate",
+                    "issuePublicationDate": "2019-01-15T00:00:00",
+                    "publicationDate": "2018-12-28T00:00:00",
+                    "doi": "10.1175/jcli-d-18-0244.1"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "atmospheric science"
+            ],
+            "created": "2022-09-16T04:24:14.072338+00:00",
+            "distributionDate": "2020-05-24T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "17RS-TK003905",
+                    "type": "funding"
+                },
+                {
+                    "number": "JP16H06725",
+                    "type": "funding"
+                },
+                {
+                    "number": "JSPS Overseas Research Fellowships",
+                    "type": "funding"
+                },
+                {
+                    "number": "NNH15ZDA001N-PMM",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Improving Satellite-Based Subhourly Surface Rain Estimates Using Vertical Rain Profile Information",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Nobuyuki Utsumi"
+                        },
+                        "organization": {
+                            "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, and Institute of Industrial Science, The University of Tokyo, Tokyo, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Hyungjun Kim"
+                        },
+                        "organization": {
+                            "name": "Institute of Industrial Science, The University of Tokyo, Tokyo, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "F. Joseph Turk"
+                        },
+                        "organization": {
+                            "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Ziad. S. Haddad"
+                        },
+                        "organization": {
+                            "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-01T00:00:00",
+            "id": "16746699581382",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1175/jhm-d-18-0225.1"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "20",
+                    "pages": "1015-1026",
+                    "issue": "5",
+                    "issn": "1525-755X",
+                    "publisher": "American Meteorological Society",
+                    "eissn": "1525-7541",
+                    "publicationName": "Journal of Hydrometeorology",
+                    "issuePublicationDate": "2019-05-01T00:00:00",
+                    "publicationDate": "2019-05-24T00:00:00",
+                    "doi": "10.1175/jhm-d-18-0225.1"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:14.602363+00:00",
+            "distributionDate": "2019-01-03T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "PP00P2_128540/1",
+                    "type": "funding"
+                },
+                {
+                    "number": "ST/M000990/1",
+                    "type": "funding"
+                },
+                {
+                    "number": "PHY-1748958",
+                    "type": "funding"
+                },
+                {
+                    "number": "NNX08AR22G",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Dark matter heats up in dwarf galaxies",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "J I Read"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, University of Surrey, Guildford GU2 7XH, UK"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "M G Walker"
+                        },
+                        "organization": {
+                            "name": "McWilliams Center for Cosmology, Department of Physics, Carnegie Mellon University, 5000 Forbes Ave., Pittsburgh, PA 15213, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "P Steger"
+                        },
+                        "organization": {
+                            "name": "Institute for Astronomy, Department of Physics, ETH Z\u00fcrich, Wolfgang-Pauli-Strasse 27, CH-8093 Z\u00fcrich, Switzerland"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "51322533858572",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/mnras/sty3404"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "484",
+                    "pages": "1401-1420",
+                    "issue": "1",
+                    "issn": "0035-8711",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "1365-2966",
+                    "publicationName": "Monthly Notices of the Royal Astronomical Society",
+                    "issuePublicationDate": "2019-03-21T00:00:00",
+                    "publicationDate": "2019-01-03T00:00:00",
+                    "doi": "10.1093/mnras/sty3404"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "general immunology and microbiology",
+                "general biochemistry, genetics and molecular biology",
+                "general medicine",
+                "general neuroscience"
+            ],
+            "created": "2022-09-16T04:24:14.748758+00:00",
+            "distributionDate": "2015-06-30T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "#OPP1053338",
+                    "type": "funding"
+                },
+                {
+                    "number": "#095066",
+                    "type": "funding"
+                },
+                {
+                    "number": "ECDC/09/018",
+                    "type": "funding"
+                },
+                {
+                    "number": "#21803",
+                    "type": "funding"
+                },
+                {
+                    "number": "#NNX15AF36G",
+                    "type": "funding"
+                },
+                {
+                    "number": "RAPIDD program",
+                    "type": "funding"
+                },
+                {
+                    "number": "R01-AI069341",
+                    "type": "funding"
+                },
+                {
+                    "number": "R01-AI091980",
+                    "type": "funding"
+                },
+                {
+                    "number": "R01-GM08322",
+                    "type": "funding"
+                },
+                {
+                    "number": "N01-A1-25489",
+                    "type": "funding"
+                },
+                {
+                    "number": "#OPP52250",
+                    "type": "funding"
+                },
+                {
+                    "number": "Vecnet",
+                    "type": "funding"
+                },
+                {
+                    "number": "#099872",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "ACCEPTED_MANUSCRIPT",
+            "distribution": "PUBLIC",
+            "title": "The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Moritz UG Kraemer"
+                        },
+                        "organization": {
+                            "name": "Spatial Ecology and Epidemiology Group, Department of Zoology, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Marianne E Sinka"
+                        },
+                        "organization": {
+                            "name": "Spatial Ecology and Epidemiology Group, Department of Zoology, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Kirsten A Duda"
+                        },
+                        "organization": {
+                            "name": "Spatial Ecology and Epidemiology Group, Department of Zoology, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Adrian QN Mylne"
+                        },
+                        "organization": {
+                            "name": "Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Freya M Shearer"
+                        },
+                        "organization": {
+                            "name": "Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Christopher M Barker"
+                        },
+                        "organization": {
+                            "name": "Department of Pathology, Microbiology, and Immunology, School of Veterinary Medicine, University of California, Davis, Davis, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Chester G Moore"
+                        },
+                        "organization": {
+                            "name": "Department of Microbiology, Immunology and Pathology, Colorado State University, Fort Collins, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Roberta G Carvalho"
+                        },
+                        "organization": {
+                            "name": "National Dengue Control Program, Ministry of Health, Brasilia, Brazil"
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Giovanini E Coelho"
+                        },
+                        "organization": {
+                            "name": "National Dengue Control Program, Ministry of Health, Brasilia, Brazil"
+                        }
+                    }
+                },
+                {
+                    "sequence": 9,
+                    "meta": {
+                        "author": {
+                            "name": "Wim Van Bortel"
+                        },
+                        "organization": {
+                            "name": "European Centre for Disease Prevention and Control, Stockholm, Sweden"
+                        }
+                    }
+                },
+                {
+                    "sequence": 10,
+                    "meta": {
+                        "author": {
+                            "name": "Guy Hendrickx"
+                        },
+                        "organization": {
+                            "name": "Avia-GIS, Zoersel, Belgium"
+                        }
+                    }
+                },
+                {
+                    "sequence": 11,
+                    "meta": {
+                        "author": {
+                            "name": "Francis Schaffner"
+                        },
+                        "organization": {
+                            "name": "Avia-GIS, Zoersel, Belgium"
+                        }
+                    }
+                },
+                {
+                    "sequence": 12,
+                    "meta": {
+                        "author": {
+                            "name": "Iqbal RF Elyazar"
+                        },
+                        "organization": {
+                            "name": "Eijkman-Oxford Clinical Research Unit, Jakarta, Indonesia"
+                        }
+                    }
+                },
+                {
+                    "sequence": 13,
+                    "meta": {
+                        "author": {
+                            "name": "Hwa-Jen Teng"
+                        },
+                        "organization": {
+                            "name": "Center for Research, Diagnostics and Vaccine Development, Centers for Disease Control, Taipei, Taiwan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 14,
+                    "meta": {
+                        "author": {
+                            "name": "Oliver J Brady"
+                        },
+                        "organization": {
+                            "name": "Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 15,
+                    "meta": {
+                        "author": {
+                            "name": "Jane P Messina"
+                        },
+                        "organization": {
+                            "name": "Spatial Ecology and Epidemiology Group, Department of Zoology, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 16,
+                    "meta": {
+                        "author": {
+                            "name": "David M Pigott"
+                        },
+                        "organization": {
+                            "name": "Spatial Ecology and Epidemiology Group, Department of Zoology, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 17,
+                    "meta": {
+                        "author": {
+                            "name": "Thomas W Scott"
+                        },
+                        "organization": {
+                            "name": "Fogarty International Center, National Institutes of Health, Bethesda, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 18,
+                    "meta": {
+                        "author": {
+                            "name": "David L Smith"
+                        },
+                        "organization": {
+                            "name": "Spatial Ecology and Epidemiology Group, Department of Zoology, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 19,
+                    "meta": {
+                        "author": {
+                            "name": "GR William Wint"
+                        },
+                        "organization": {
+                            "name": "Environmental Research Group Oxford, Department of Zoology, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 20,
+                    "meta": {
+                        "author": {
+                            "name": "Nick Golding"
+                        },
+                        "organization": {
+                            "name": "Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                },
+                {
+                    "sequence": 21,
+                    "meta": {
+                        "author": {
+                            "name": "Simon I Hay"
+                        },
+                        "organization": {
+                            "name": "Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Accepted Manuscript",
+            "modified": "2022-08-02T00:00:00",
+            "id": "18717774852904",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.7554/elife.08347"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "4",
+                    "publisher": "eLife Sciences Publications, Ltd",
+                    "eissn": "2050-084X",
+                    "publicationName": "eLife",
+                    "publicationDate": "2015-06-30T00:00:00",
+                    "doi": "10.7554/elife.08347"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:14.847547+00:00",
+            "distributionDate": "2019-05-27T00:00:00",
+            "fundingNumbers": [],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Bok globule CB 17: polarization, extinction and distance",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "G B Choudhury"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Assam University, Silchar 788011, India"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "A Barman"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Assam University, Silchar 788011, India"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "H S Das"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Assam University, Silchar 788011, India"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "B J Medhi"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Gauhati University, Guwahati 781014, India"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "29886535880646",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/mnras/stz1205"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "487",
+                    "pages": "475-485",
+                    "issue": "1",
+                    "issn": "0035-8711",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "1365-2966",
+                    "publicationName": "Monthly Notices of the Royal Astronomical Society",
+                    "issuePublicationDate": "2019-07-21T00:00:00",
+                    "publicationDate": "2019-05-27T00:00:00",
+                    "doi": "10.1093/mnras/stz1205"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:14.897118+00:00",
+            "distributionDate": "2020-05-14T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "12-EUCLID11-0004",
+                    "type": "funding"
+                },
+                {
+                    "number": "DE-SC0011840",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Computing three-point correlation function randoms counts without the randoms catalogue",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "David W Pearson"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Kansas State University, 116 Cardwell Hall, Manhattan, KS 66506, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Lado Samushia"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Kansas State University, 116 Cardwell Hall, Manhattan, KS 66506, USA"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "94201795549066",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/mnrasl/slz067"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "486",
+                    "pages": "L105-L109",
+                    "issue": "1",
+                    "issn": "1745-3925",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "1745-3933",
+                    "publicationName": "Monthly Notices of the Royal Astronomical Society: Letters",
+                    "issuePublicationDate": "2019-06-11T00:00:00",
+                    "publicationDate": "2019-05-14T00:00:00",
+                    "doi": "10.1093/mnrasl/slz067"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:15.118307+00:00",
+            "distributionDate": "2019-05-28T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "12-EUCLID12-0004.",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "The Complete Calibration of the Color\u2013Redshift Relation (C3R2) Survey: Analysis and Data Release 2",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Daniel C. Masters"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Daniel K. Stern"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Judith G. Cohen"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Peter L. Capak"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "S. Adam Stanford"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Nina Hernitschek"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Audrey Galametz"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Iary Davidzon"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Jason D. Rhodes"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 9,
+                    "meta": {
+                        "author": {
+                            "name": "Dave Sanders"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 10,
+                    "meta": {
+                        "author": {
+                            "name": "Bahram Mobasher"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 11,
+                    "meta": {
+                        "author": {
+                            "name": "Francisco Castander"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 12,
+                    "meta": {
+                        "author": {
+                            "name": "Kerianne Pruett"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 13,
+                    "meta": {
+                        "author": {
+                            "name": "Sotiria Fotopoulou"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "30252098261816",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.3847/1538-4357/ab184d"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "877",
+                    "pages": "81",
+                    "issue": "2",
+                    "publisher": "American Astronomical Society",
+                    "eissn": "1538-4357",
+                    "publicationName": "The Astrophysical Journal",
+                    "publicationDate": "2019-05-28T00:00:00",
+                    "doi": "10.3847/1538-4357/ab184d"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "aquatic science",
+                "oceanography"
+            ],
+            "created": "2022-09-16T04:24:15.452762+00:00",
+            "distributionDate": "2019-05-30T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "OPP\u20101822021",
+                    "type": "funding"
+                },
+                {
+                    "number": "TO 002 OSTA WA 009",
+                    "type": "funding"
+                },
+                {
+                    "number": "NNX10AG05G",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Optical characterization of marine phytoplankton assemblages within surface waters of the western Arctic Ocean",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Rick A. Reynolds"
+                        },
+                        "organization": {
+                            "name": "Marine Physical Laboratory Scripps Institution of Oceanography, University of California San Diego  La Jolla California"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Dariusz Stramski"
+                        },
+                        "organization": {
+                            "name": "Marine Physical Laboratory Scripps Institution of Oceanography, University of California San Diego  La Jolla California"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "33573392960487",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1002/lno.11199"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "64",
+                    "pages": "2478-2496",
+                    "issue": "6",
+                    "issn": "0024-3590",
+                    "publisher": "Wiley",
+                    "eissn": "1939-5590",
+                    "publicationName": "Limnology and Oceanography",
+                    "issuePublicationDate": "2019-11-01T00:00:00",
+                    "publicationDate": "2019-05-30T00:00:00",
+                    "doi": "10.1002/lno.11199"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:15.550255+00:00",
+            "distributionDate": "2019-05-30T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "80NSSC18K0452",
+                    "type": "funding"
+                },
+                {
+                    "number": "16H02198",
+                    "type": "funding"
+                },
+                {
+                    "number": "18H01246",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "<i>NICER</i> Observations of the 2018 Outburst of XTE J1810\u2212197",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Tolga G\u00fcver"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Ersin G\u00f6\u011f\u00fc\u015f"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Eda Vurgun"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Teruaki Enoto"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Keith C. Gendreau"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Takanori Sakamoto"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Eric V. Gotthelf"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Zaven Arzoumanian"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Sebastien Guillot"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 9,
+                    "meta": {
+                        "author": {
+                            "name": "Gaurava K. Jaisawal"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 10,
+                    "meta": {
+                        "author": {
+                            "name": "Christian Malacaria"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 11,
+                    "meta": {
+                        "author": {
+                            "name": "Walid A. Majid"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-07-15T00:00:00",
+            "id": "10538360226485",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.3847/2041-8213/ab212d"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "877",
+                    "pages": "L30",
+                    "issue": "2",
+                    "publisher": "American Astronomical Society",
+                    "eissn": "2041-8213",
+                    "publicationName": "The Astrophysical Journal",
+                    "publicationDate": "2019-05-30T00:00:00",
+                    "doi": "10.3847/2041-8213/ab212d"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:15.699685+00:00",
+            "distributionDate": "2019-05-31T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX15AF78G",
+                    "type": "funding"
+                },
+                {
+                    "number": "80NSSC17K0250",
+                    "type": "funding"
+                },
+                {
+                    "number": "80NSSC17K0251",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Molybdenum Isotopes in Presolar Silicon Carbide Grains: Details of <i>s</i>-process Nucleosynthesis in Parent Stars and Implications for <i>r</i>- and <i>p</i>-processes",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Thomas Stephan"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Reto Trappitsch"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Peter Hoppe"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Andrew M. Davis"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Michael J. Pellin"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Olivia S. Pardo"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-07-14T00:00:00",
+            "id": "22487124483150",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.3847/1538-4357/ab1c60"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "877",
+                    "pages": "101",
+                    "issue": "2",
+                    "publisher": "American Astronomical Society",
+                    "eissn": "1538-4357",
+                    "publicationName": "The Astrophysical Journal",
+                    "publicationDate": "2019-05-31T00:00:00",
+                    "doi": "10.3847/1538-4357/ab1c60"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "soil science",
+                "ecology",
+                "ecology, evolution, behavior and systematics"
+            ],
+            "created": "2022-09-16T04:24:15.724465+00:00",
+            "distributionDate": "2019-06-03T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX15AF30G",
+                    "type": "funding"
+                },
+                {
+                    "number": "1537943",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "ACCEPTED_MANUSCRIPT",
+            "distribution": "PUBLIC",
+            "title": "Regulation of Low and High Nucleic Acid Fluorescent Heterotrophic Prokaryote Subpopulations and Links to Viral-Induced Mortality Within Natural Prokaryote-Virus Communities",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Kristina D. A. Mojica"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Craig A. Carlson"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Mike J. Behrenfeld"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Accepted Manuscript",
+            "modified": "2022-08-02T00:00:00",
+            "id": "72633340002070",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1007/s00248-019-01393-9"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "79",
+                    "pages": "213-230",
+                    "issue": "1",
+                    "issn": "0095-3628",
+                    "publisher": "Springer Science and Business Media LLC",
+                    "eissn": "1432-184X",
+                    "publicationName": "Microbial Ecology",
+                    "issuePublicationDate": "2020-01-01T00:00:00",
+                    "publicationDate": "2019-06-03T00:00:00",
+                    "doi": "10.1007/s00248-019-01393-9"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "physics and astronomy (miscellaneous)",
+                "agricultural and biological sciences (miscellaneous)",
+                "biochemistry, genetics and molecular biology (miscellaneous)",
+                "materials science (miscellaneous)",
+                "medicine (miscellaneous)"
+            ],
+            "created": "2022-09-16T04:24:15.895679+00:00",
+            "distributionDate": "2019-06-04T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NCC 9-58",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Positive impact of low-dose, high-energy radiation on bone in partial- and/or full-weightbearing mice",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Rihana S. Bokhari"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Corinne E. Metzger"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Jeremy M. Black"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Katherine A. Franklin"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Ramon D. Boudreaux"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Matthew R. Allen"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Brandon R. Macias"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Harry A. Hogan"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Leslie A. Braby"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 9,
+                    "meta": {
+                        "author": {
+                            "name": "Susan A. Bloomfield"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-01T00:00:00",
+            "id": "31833091503298",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1038/s41526-019-0074-3"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "5",
+                    "issue": "1",
+                    "publisher": "Springer Science and Business Media LLC",
+                    "eissn": "2373-8065",
+                    "publicationName": "npj Microgravity",
+                    "issuePublicationDate": "2019-12-01T00:00:00",
+                    "publicationDate": "2019-06-04T00:00:00",
+                    "doi": "10.1038/s41526-019-0074-3"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "health, toxicology and mutagenesis",
+                "pollution",
+                "waste management and disposal",
+                "water science and technology",
+                "ecology",
+                "environmental chemistry"
+            ],
+            "created": "2022-09-16T04:24:15.946671+00:00",
+            "distributionDate": "2019-06-04T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX16AC98G",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Bottom-Up Estimates of Coal Mine Methane Emissions in China: A Gridded Inventory, Emission Factors, and Trends",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Jianxiong Sheng"
+                        },
+                        "organization": {
+                            "name": "Center for Global Change Science, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Shaojie Song"
+                        },
+                        "organization": {
+                            "name": "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, Massachusetts 02138, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Yuzhong Zhang"
+                        },
+                        "organization": {
+                            "name": "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, Massachusetts 02138, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Ronald G. Prinn"
+                        },
+                        "organization": {
+                            "name": "Center for Global Change Science, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Greet Janssens-Maenhout"
+                        },
+                        "organization": {
+                            "name": "European Commission, Joint Research Centre (JRC), Via E. Fermi 2749 (T.P. 123), I-21027 Ispra, VA, Italy"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "21177520195527",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1021/acs.estlett.9b00294"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "6",
+                    "pages": "473-478",
+                    "issue": "8",
+                    "issn": "2328-8930",
+                    "publisher": "American Chemical Society (ACS)",
+                    "eissn": "2328-8930",
+                    "publicationName": "Environmental Science &amp; Technology Letters",
+                    "issuePublicationDate": "2019-08-13T00:00:00",
+                    "publicationDate": "2019-05-31T00:00:00",
+                    "doi": "10.1021/acs.estlett.9b00294"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "general chemical engineering",
+                "general chemistry"
+            ],
+            "created": "2022-09-16T04:24:16.175128+00:00",
+            "distributionDate": "2019-06-05T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "CHE-1048655",
+                    "type": "funding"
+                },
+                {
+                    "number": "062761266",
+                    "type": "funding"
+                },
+                {
+                    "number": "MSGC R85197",
+                    "type": "funding"
+                },
+                {
+                    "number": "81370419",
+                    "type": "funding"
+                },
+                {
+                    "number": "GM088795-01",
+                    "type": "funding"
+                },
+                {
+                    "number": "R01386",
+                    "type": "funding"
+                },
+                {
+                    "number": "1204010",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Cardioprotection Effects of <b>LPTC-5</b> Involve Mitochondrial Protection and Dynamics",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Wei Bi"
+                        },
+                        "organization": {
+                            "name": "Second Hospital of HeBei Medical University, Shijiazhuang 050000, PR China"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Yue Bi"
+                        },
+                        "organization": {
+                            "name": "Second Hospital of HeBei Medical University, Shijiazhuang 050000, PR China"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Pengfei Li"
+                        },
+                        "organization": {
+                            "name": "Second Hospital of HeBei Medical University, Shijiazhuang 050000, PR China"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Shanshan Hou"
+                        },
+                        "organization": {
+                            "name": "Department of Chemistry and Biological Sciences, Michigan Technological University, Houghton, Michigan 49931, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Xin Yan"
+                        },
+                        "organization": {
+                            "name": "Department of Chemistry and Biological Sciences, Michigan Technological University, Houghton, Michigan 49931, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Connor Hensley"
+                        },
+                        "organization": {
+                            "name": "Department of Chemistry and Biological Sciences, Michigan Technological University, Houghton, Michigan 49931, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Yanrong Zhang"
+                        },
+                        "organization": {
+                            "name": "Second Hospital of HeBei Medical University, Shijiazhuang 050000, PR China"
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Steffen Jockusch"
+                        },
+                        "organization": {
+                            "name": "Department of Chemistry, Columbia University, New York, New York 10027, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Thomas D. Legalley"
+                        },
+                        "organization": {
+                            "name": "Marquette General Heart and Vascular Institute, Marquette General Hospital, Marquette, Michigan 49855, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 9,
+                    "meta": {
+                        "author": {
+                            "name": "K. Michael Gibson"
+                        },
+                        "organization": {
+                            "name": "Department of Pharmacotherapy, College of Pharmacy, Washington State University, Spokane Washington 99202, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 10,
+                    "meta": {
+                        "author": {
+                            "name": "Lanrong Bi"
+                        },
+                        "organization": {
+                            "name": "Department of Chemistry and Biological Sciences, Michigan Technological University, Houghton, Michigan 49931, United States"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "29261310765847",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1021/acsomega.8b02441"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "4",
+                    "pages": "9868-9877",
+                    "issue": "6",
+                    "issn": "2470-1343",
+                    "publisher": "American Chemical Society (ACS)",
+                    "eissn": "2470-1343",
+                    "publicationName": "ACS Omega",
+                    "issuePublicationDate": "2019-06-30T00:00:00",
+                    "publicationDate": "2019-06-05T00:00:00",
+                    "doi": "10.1021/acsomega.8b02441"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:16.216529+00:00",
+            "distributionDate": "2019-06-06T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX08AR22G",
+                    "type": "funding"
+                },
+                {
+                    "number": "AST-1238877",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Near-infrared Variability of Low-mass Stars in IC 1396A and Tr 37",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Huan Y. A. Meng"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "G. H. Rieke"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Jinyoung Serena Kim"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Aurora Sicilia-Aguilar"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "N. J. G. Cross"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Taran Esplin"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "L. M. Rebull"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Klaus W. Hodapp"
+                        },
+                        "organization": {
+                            "name": ""
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-07-14T00:00:00",
+            "id": "10569024037863",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.3847/1538-4357/ab1b14"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "878",
+                    "pages": "7",
+                    "issue": "1",
+                    "publisher": "American Astronomical Society",
+                    "eissn": "1538-4357",
+                    "publicationName": "The Astrophysical Journal",
+                    "publicationDate": "2019-06-06T00:00:00",
+                    "doi": "10.3847/1538-4357/ab1b14"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "aerospace engineering"
+            ],
+            "created": "2022-09-16T04:24:16.302342+00:00",
+            "distributionDate": "2019-06-10T00:00:00",
+            "fundingNumbers": [],
+            "stiType": "ACCEPTED_MANUSCRIPT",
+            "distribution": "PUBLIC",
+            "title": "Low-Noise Operating Mode for Propeller-Driven Electric Airplanes",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Jeffrey J. Berton"
+                        },
+                        "organization": {
+                            "name": "NASA John H. Glenn Research Center, Cleveland, Ohio 44135"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Douglas M. Nark"
+                        },
+                        "organization": {
+                            "name": "NASA Langley Research Center, Hampton, Virginia 23681"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Accepted Manuscript",
+            "modified": "2022-08-02T00:00:00",
+            "id": "91664143908910",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.2514/1.c035242"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "56",
+                    "pages": "1708-1714",
+                    "issue": "4",
+                    "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+                    "eissn": "1533-3868",
+                    "publicationName": "Journal of Aircraft",
+                    "issuePublicationDate": "2019-07-01T00:00:00",
+                    "publicationDate": "2019-06-10T00:00:00",
+                    "doi": "10.2514/1.c035242"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "geophysics"
+            ],
+            "created": "2022-09-16T04:24:16.598519+00:00",
+            "distributionDate": "2020-04-30T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "1852977",
+                    "type": "funding"
+                },
+                {
+                    "number": "NNX16AB82G",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Whole Atmosphere Climate Change: Dependence on Solar Activity",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Stanley C. Solomon"
+                        },
+                        "organization": {
+                            "name": "High Altitude Observatory National Center for Atmospheric Research  Boulder CO USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Han\u2010Li Liu"
+                        },
+                        "organization": {
+                            "name": "High Altitude Observatory National Center for Atmospheric Research  Boulder CO USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Daniel R. Marsh"
+                        },
+                        "organization": {
+                            "name": "High Altitude Observatory National Center for Atmospheric Research  Boulder CO USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Joseph M. McInerney"
+                        },
+                        "organization": {
+                            "name": "High Altitude Observatory National Center for Atmospheric Research  Boulder CO USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Liying Qian"
+                        },
+                        "organization": {
+                            "name": "High Altitude Observatory National Center for Atmospheric Research  Boulder CO USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Francis M. Vitt"
+                        },
+                        "organization": {
+                            "name": "High Altitude Observatory National Center for Atmospheric Research  Boulder CO USA"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "17532554186802",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1029/2019ja026678"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "124",
+                    "pages": "3799-3809",
+                    "issue": "5",
+                    "issn": "2169-9380",
+                    "publisher": "American Geophysical Union (AGU)",
+                    "eissn": "2169-9402",
+                    "publicationName": "Journal of Geophysical Research: Space Physics",
+                    "issuePublicationDate": "2019-05-01T00:00:00",
+                    "publicationDate": "2019-05-28T00:00:00",
+                    "doi": "10.1029/2019ja026678"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "cell biology",
+                "cognitive neuroscience",
+                "physiology",
+                "biochemistry",
+                "general medicine"
+            ],
+            "created": "2022-09-16T04:24:16.673272+00:00",
+            "distributionDate": "2019-05-17T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX14AD68G",
+                    "type": "funding"
+                },
+                {
+                    "number": "MCB-1518204",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "ACCEPTED_MANUSCRIPT",
+            "distribution": "PUBLIC",
+            "title": "Steady, Symmetric, and Reversible Growth and Dissolution of Individual Amyloid-\u03b2 Fibrils",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Yuechuan Xu"
+                        },
+                        "organization": {
+                            "name": "Department of Chemical and Biomolecular Engineering, University of Houston, 4726 Calhoun Road, Houston, Texas 77204-4004, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Mohammad S. Safari"
+                        },
+                        "organization": {
+                            "name": "Department of Chemical and Biomolecular Engineering, University of Houston, 4726 Calhoun Road, Houston, Texas 77204-4004, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Wenchuan Ma"
+                        },
+                        "organization": {
+                            "name": "Department of Chemical and Biomolecular Engineering, University of Houston, 4726 Calhoun Road, Houston, Texas 77204-4004, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Nicholas P. Schafer"
+                        },
+                        "organization": {
+                            "name": "Center for Theoretical Biological Physics, Rice University, P.O. Box 1892, MS 654, Houston, Texas 77251-1892, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Peter G. Wolynes"
+                        },
+                        "organization": {
+                            "name": "Center for Theoretical Biological Physics, Rice University, P.O. Box 1892, MS 654, Houston, Texas 77251-1892, United States"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Peter G. Vekilov"
+                        },
+                        "organization": {
+                            "name": "Department of Chemical and Biomolecular Engineering, University of Houston, 4726 Calhoun Road, Houston, Texas 77204-4004, United States"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Accepted Manuscript",
+            "modified": "2022-08-02T00:00:00",
+            "id": "20123362031174",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1021/acschemneuro.9b00179"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "10",
+                    "pages": "2967-2976",
+                    "issue": "6",
+                    "issn": "1948-7193",
+                    "publisher": "American Chemical Society (ACS)",
+                    "eissn": "1948-7193",
+                    "publicationName": "ACS Chemical Neuroscience",
+                    "issuePublicationDate": "2019-06-19T00:00:00",
+                    "publicationDate": "2019-05-17T00:00:00",
+                    "doi": "10.1021/acschemneuro.9b00179"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:16.763714+00:00",
+            "distributionDate": "2019-05-17T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "80NSSC17K0650",
+                    "type": "funding"
+                },
+                {
+                    "number": "AST-1615796",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Time-dependent spectral modelling of Markarian 421 during a violent outburst in 2010",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "B Banerjee"
+                        },
+                        "organization": {
+                            "name": "Saha Institute of Nuclear Physics, HBNI, 1/AF Bidhannagar, Salt Lake, Sector-1, Kolkata 700064, India"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "M Joshi"
+                        },
+                        "organization": {
+                            "name": "Institute for Astrophysical Research, Boston University, 725 Commonwealth Avenue, Boston, MA 02215, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "P Majumdar"
+                        },
+                        "organization": {
+                            "name": "Saha Institute of Nuclear Physics, HBNI, 1/AF Bidhannagar, Salt Lake, Sector-1, Kolkata 700064, India"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "K E Williamson"
+                        },
+                        "organization": {
+                            "name": "Institute for Astrophysical Research, Boston University, 725 Commonwealth Avenue, Boston, MA 02215, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "S G Jorstad"
+                        },
+                        "organization": {
+                            "name": "Institute for Astrophysical Research, Boston University, 725 Commonwealth Avenue, Boston, MA 02215, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "A P Marscher"
+                        },
+                        "organization": {
+                            "name": "Institute for Astrophysical Research, Boston University, 725 Commonwealth Avenue, Boston, MA 02215, USA"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "26872803261827",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/mnras/stz1292"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "487",
+                    "pages": "845-857",
+                    "issue": "1",
+                    "issn": "0035-8711",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "1365-2966",
+                    "publicationName": "Monthly Notices of the Royal Astronomical Society",
+                    "issuePublicationDate": "2019-07-21T00:00:00",
+                    "publicationDate": "2019-05-17T00:00:00",
+                    "doi": "10.1093/mnras/stz1292"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:16.824189+00:00",
+            "distributionDate": "2019-05-30T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX08AR22G",
+                    "type": "funding"
+                },
+                {
+                    "number": "AST-1238877",
+                    "type": "funding"
+                },
+                {
+                    "number": "JPMHCR1414",
+                    "type": "funding"
+                },
+                {
+                    "number": "18H04345",
+                    "type": "funding"
+                },
+                {
+                    "number": "15H02075",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "The Hyper Suprime-Cam SSP transient survey in COSMOS: Overview",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Naoki Yasuda"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Masaomi Tanaka"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Nozomu Tominaga"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Ji-an Jiang"
+                        },
+                        "organization": {
+                            "name": "Institute of Astronomy, Graduate School of Science, The University of Tokyo, 2-21-1 Osawa, Mitaka, Tokyo 181-0015, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Takashi J Moriya"
+                        },
+                        "organization": {
+                            "name": "National Astronomical Observatory of Japan, National Institutes of Natural Sciences, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Tomoki Morokuma"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Nao Suzuki"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Ichiro Takahashi"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Masaki S Yamaguchi"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Faculty of Science and Engineering, Konan University, 8-9-1 Okamoto, Kobe, Hyogo 658-8501, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 9,
+                    "meta": {
+                        "author": {
+                            "name": "Keiichi Maeda"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 10,
+                    "meta": {
+                        "author": {
+                            "name": "Masao Sako"
+                        },
+                        "organization": {
+                            "name": "Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, PA 19104, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 11,
+                    "meta": {
+                        "author": {
+                            "name": "Shiro Ikeda"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 12,
+                    "meta": {
+                        "author": {
+                            "name": "Akisato Kimura"
+                        },
+                        "organization": {
+                            "name": "NTT Communication Science Laboratories, 2-4 Hikaridai, Seika-cho, Keihanna Science City, Kyoto, Kyoto 619-0237, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 13,
+                    "meta": {
+                        "author": {
+                            "name": "Mikio Morii"
+                        },
+                        "organization": {
+                            "name": "Research Center for Statistical Machine Learning, The Institute of Statistical Mathematics, 10-3 Midori-cho, Tachikawa, Tokyo 190-8562, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 14,
+                    "meta": {
+                        "author": {
+                            "name": "Naonori Ueda"
+                        },
+                        "organization": {
+                            "name": "NTT Communication Science Laboratories, 2-4 Hikaridai, Seika-cho, Keihanna Science City, Kyoto, Kyoto 619-0237, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 15,
+                    "meta": {
+                        "author": {
+                            "name": "Naoki Yoshida"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 16,
+                    "meta": {
+                        "author": {
+                            "name": "Chien-Hsiu Lee"
+                        },
+                        "organization": {
+                            "name": "Subaru Telescope, National Astronomical Observatory of Japan, 650\u00a0N A\u2019ohoku Pl., Hilo, HI 96720, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 17,
+                    "meta": {
+                        "author": {
+                            "name": "Sherry H Suyu"
+                        },
+                        "organization": {
+                            "name": "Max-Planck-Institut f\u00fcr Astrophysik, Karl-Schwarzschild-Str. 1, 85748 Garching, Germany"
+                        }
+                    }
+                },
+                {
+                    "sequence": 18,
+                    "meta": {
+                        "author": {
+                            "name": "Yutaka Komiyama"
+                        },
+                        "organization": {
+                            "name": "National Astronomical Observatory of Japan, National Institutes of Natural Sciences, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 19,
+                    "meta": {
+                        "author": {
+                            "name": "Nicolas Regnault"
+                        },
+                        "organization": {
+                            "name": "Sorbonne Universit\u00e9, Universit\u00e9 Paris Diderot, CNRS/IN2P3, Laboratoire de Physique Nucl\u00e9aire et de Hautes Energies, LPNHE, 4 Place Jussieu, 75252 Paris, France"
+                        }
+                    }
+                },
+                {
+                    "sequence": 20,
+                    "meta": {
+                        "author": {
+                            "name": "David Rubin"
+                        },
+                        "organization": {
+                            "name": "Physics Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, CA 94720, USA"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "10189109719336",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/pasj/psz050"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "71",
+                    "issue": "4",
+                    "issn": "0004-6264",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "2053-051X",
+                    "publicationName": "Publications of the Astronomical Society of Japan",
+                    "issuePublicationDate": "2019-08-01T00:00:00",
+                    "publicationDate": "2019-05-30T00:00:00",
+                    "doi": "10.1093/pasj/psz050"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "atmospheric science"
+            ],
+            "created": "2022-09-16T04:24:16.906678+00:00",
+            "distributionDate": "2020-05-30T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "GRFP",
+                    "type": "funding"
+                },
+                {
+                    "number": "AGS-1243204",
+                    "type": "funding"
+                },
+                {
+                    "number": "NASA 80NSSC17K0265",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Dynamics and Variability of the Spring Dry Season in the United States Southwest as Observed in AmeriFlux and NLDAS-2 Data",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Madeleine Pascolini-Campbell"
+                        },
+                        "organization": {
+                            "name": "Columbia University, New York City, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Richard Seager"
+                        },
+                        "organization": {
+                            "name": "Lamont\u2013Doherty Earth Observatory, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "A. Park Williams"
+                        },
+                        "organization": {
+                            "name": "Lamont\u2013Doherty Earth Observatory, Palisades, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Benjamin I. Cook"
+                        },
+                        "organization": {
+                            "name": "NASA Goddard Institute for Space Studies, New York, New York"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Ariane O. Pinson"
+                        },
+                        "organization": {
+                            "name": "Albuquerque District, U.S. Army Corps of Engineers, Albuquerque, New Mexico"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "26451557840074",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1175/jhm-d-18-0154.1"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "20",
+                    "pages": "1081-1102",
+                    "issue": "6",
+                    "issn": "1525-755X",
+                    "publisher": "American Meteorological Society",
+                    "eissn": "1525-7541",
+                    "publicationName": "Journal of Hydrometeorology",
+                    "issuePublicationDate": "2019-06-01T00:00:00",
+                    "publicationDate": "2019-05-30T00:00:00",
+                    "doi": "10.1175/jhm-d-18-0154.1"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:17.185011+00:00",
+            "distributionDate": "2019-05-09T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NSF-ACI-1533850",
+                    "type": "funding"
+                },
+                {
+                    "number": "NNX17AB85G",
+                    "type": "funding"
+                },
+                {
+                    "number": "245237",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Efficient, divergence-free, high-order MHD on 3D spherical meshes with optimal geodesic meshing",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Dinshaw S Balsara"
+                        },
+                        "organization": {
+                            "name": "ACMS Department, University of Notre Dame, Notre Dame, IN, 46545, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Vladimir Florinski"
+                        },
+                        "organization": {
+                            "name": "Space Physics, University of Alabama, Huntsville, AL 35899, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Sudip Garain"
+                        },
+                        "organization": {
+                            "name": "Physics Department, University of Notre Dame, Notre Dame, IN 46556, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Sethupathy Subramanian"
+                        },
+                        "organization": {
+                            "name": "Physics Department, University of Notre Dame, Notre Dame, IN 46556, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Katharine F Gurski"
+                        },
+                        "organization": {
+                            "name": "Department of Mathematics, Howard University, Washington, DC 20059, USA"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "17329578174692",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/mnras/stz1263"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "487",
+                    "pages": "1283-1314",
+                    "issue": "1",
+                    "issn": "0035-8711",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "1365-2966",
+                    "publicationName": "Monthly Notices of the Royal Astronomical Society",
+                    "issuePublicationDate": "2019-07-21T00:00:00",
+                    "publicationDate": "2019-05-09T00:00:00",
+                    "doi": "10.1093/mnras/stz1263"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:17.306151+00:00",
+            "distributionDate": "2019-06-04T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "JP24684015",
+                    "type": "funding"
+                },
+                {
+                    "number": "JP18K03678",
+                    "type": "funding"
+                },
+                {
+                    "number": "105-2112-M-008-013-MY3",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Spectral properties of gamma-ray bursts observed by the Suzaku wide-band all-sky monitor",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "Norisuke Ohmori"
+                        },
+                        "organization": {
+                            "name": "Department of Applied Physics, University of Miyazaki, 1-1 Gakuen kibanadai-nishi, Miyazaki-shi, Miyazaki 889-2192, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "Kazutaka Yamaoka"
+                        },
+                        "organization": {
+                            "name": "Institute for Space-Earth Environmental Research (ISEE), Nagoya University, Furo-cho, Chikusa-ku, Nagoya, Aichi 464-8601, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "Makoto Yamauchi"
+                        },
+                        "organization": {
+                            "name": "Department of Applied Physics, University of Miyazaki, 1-1 Gakuen kibanadai-nishi, Miyazaki-shi, Miyazaki 889-2192, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "Yuji Urata"
+                        },
+                        "organization": {
+                            "name": "Institute of Astronomy, National Central University, Chung-Li 32054, Taiwan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "Masanori Ohno"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima, Hiroshima 739-8526, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 5,
+                    "meta": {
+                        "author": {
+                            "name": "Satoshi Sugita"
+                        },
+                        "organization": {
+                            "name": "Department of Physics and Mathematics, Aoyama Gakuin University, 5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 6,
+                    "meta": {
+                        "author": {
+                            "name": "Kevin Hurley"
+                        },
+                        "organization": {
+                            "name": "Space Sciences Laboratory, University of California, 7 Gauss Way, Berkeley, CA 94720-7450, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 7,
+                    "meta": {
+                        "author": {
+                            "name": "Makoto S Tashiro"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama-shi, Saitama 338-8570, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 8,
+                    "meta": {
+                        "author": {
+                            "name": "Yasushi Fukazawa"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Hiroshima University, 1-3-1 Kagamiyama, Higashi-Hiroshima, Hiroshima 739-8526, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 9,
+                    "meta": {
+                        "author": {
+                            "name": "Wataru Iwakiri"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Chuo University, 1-13-27 Kasuga, Bunkyo-ku, Tokyo 112-8551, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 10,
+                    "meta": {
+                        "author": {
+                            "name": "Daisuke Katsukura"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama-shi, Saitama 338-8570, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 11,
+                    "meta": {
+                        "author": {
+                            "name": "Motohide Kokubun"
+                        },
+                        "organization": {
+                            "name": "Department of High Energy Astrophysics, Institute of Space and Astronautical Science (ISAS), Japan Aerospace Exploration Agency (JAXA), 3-1-1 Yoshinodai, Chuo-ku, Sagamihara, Kanagawa 252-5210, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 12,
+                    "meta": {
+                        "author": {
+                            "name": "Kazuo Makishima"
+                        },
+                        "organization": {
+                            "name": "The Institute of Physical and Chemical Research (RIKEN), 2-1 Hirosawa, Wako, Saitama 351-0198, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 13,
+                    "meta": {
+                        "author": {
+                            "name": "Souta Murakami"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama-shi, Saitama 338-8570, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 14,
+                    "meta": {
+                        "author": {
+                            "name": "Yujin E Nakagawa"
+                        },
+                        "organization": {
+                            "name": "Center for Earth Information Science and Technology, Japan Agency for Marine-Earth Science and Technology, 3173-25 Showa-machi, Kanazawa-ku, Yokohawa, Kanagawa 236-0001, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 15,
+                    "meta": {
+                        "author": {
+                            "name": "Kazuhiro Nakazawa"
+                        },
+                        "organization": {
+                            "name": "Kobayashi-Maskawa Institute (KMI), Nagoya University, Furo-cho, Chikusa-ku, Nagoya, Aichi 464-8602, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 16,
+                    "meta": {
+                        "author": {
+                            "name": "Katsuya Odaka"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama-shi, Saitama 338-8570, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 17,
+                    "meta": {
+                        "author": {
+                            "name": "Kaito Takahashi"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama-shi, Saitama 338-8570, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 18,
+                    "meta": {
+                        "author": {
+                            "name": "Tadayuki Takahashi"
+                        },
+                        "organization": {
+                            "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study (UTIAS), The University of Tokyo, 5-1-5 Kashiwa-no-Ha, Kashiwa, Chiba 277-8583, Japan"
+                        }
+                    }
+                },
+                {
+                    "sequence": 19,
+                    "meta": {
+                        "author": {
+                            "name": "Yukikatsu Terada"
+                        },
+                        "organization": {
+                            "name": "Department of Physics, Saitama University, 255 Shimo-Okubo, Sakura-ku, Saitama-shi, Saitama 338-8570, Japan"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "68352890171160",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/pasj/psz054"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "71",
+                    "issue": "4",
+                    "issn": "0004-6264",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "2053-051X",
+                    "publicationName": "Publications of the Astronomical Society of Japan",
+                    "issuePublicationDate": "2019-08-01T00:00:00",
+                    "publicationDate": "2019-06-04T00:00:00",
+                    "doi": "10.1093/pasj/psz054"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        },
+        {
+            "_meta": {
+                "score": 0
+            },
+            "keywords": [
+                "space and planetary science",
+                "astronomy and astrophysics"
+            ],
+            "created": "2022-09-16T04:24:17.330375+00:00",
+            "distributionDate": "2019-05-24T00:00:00",
+            "fundingNumbers": [
+                {
+                    "number": "NNX14AP30G",
+                    "type": "funding"
+                },
+                {
+                    "number": "18-02-00907",
+                    "type": "funding"
+                }
+            ],
+            "stiType": "REPRINT",
+            "distribution": "PUBLIC",
+            "title": "Comparisons of MHD propeller model with observations of cataclysmic variable AE Aqr",
+            "disseminated": "DOCUMENT_AND_METADATA",
+            "authorAffiliations": [
+                {
+                    "sequence": 0,
+                    "meta": {
+                        "author": {
+                            "name": "A A Blinova"
+                        },
+                        "organization": {
+                            "name": "Department of Astronomy, Cornell University, Ithaca, NY 14853-6801, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 1,
+                    "meta": {
+                        "author": {
+                            "name": "M M Romanova"
+                        },
+                        "organization": {
+                            "name": "Department of Astronomy, Cornell University, Ithaca, NY 14853-6801, USA"
+                        }
+                    }
+                },
+                {
+                    "sequence": 2,
+                    "meta": {
+                        "author": {
+                            "name": "G V Ustyugova"
+                        },
+                        "organization": {
+                            "name": "Keldysh Institute for Applied Mathematics, Moscow 125047, Russia"
+                        }
+                    }
+                },
+                {
+                    "sequence": 3,
+                    "meta": {
+                        "author": {
+                            "name": "A V Koldoba"
+                        },
+                        "organization": {
+                            "name": "Moscow Institute of Physics and Technology, Dolgoprudny, Moscow Region 141700, Russia"
+                        }
+                    }
+                },
+                {
+                    "sequence": 4,
+                    "meta": {
+                        "author": {
+                            "name": "R V E Lovelace"
+                        },
+                        "organization": {
+                            "name": "Department of Astronomy, Cornell University, Ithaca, NY 14853-6801, USA"
+                        }
+                    }
+                }
+            ],
+            "stiTypeDetails": "Version of Record",
+            "modified": "2022-08-02T00:00:00",
+            "id": "29094722623686",
+            "sourceIdentifiers": [
+                {
+                    "number": "http://dx.doi.org/10.1093/mnras/stz1314"
+                }
+            ],
+            "status": "CURATED",
+            "publications": [
+                {
+                    "volume": "487",
+                    "pages": "1754-1763",
+                    "issue": "2",
+                    "issn": "0035-8711",
+                    "publisher": "Oxford University Press (OUP)",
+                    "eissn": "1365-2966",
+                    "publicationName": "Monthly Notices of the Royal Astronomical Society",
+                    "issuePublicationDate": "2019-08-01T00:00:00",
+                    "publicationDate": "2019-05-24T00:00:00",
+                    "doi": "10.1093/mnras/stz1314"
+                }
+            ],
+            "related": [],
+            "downloads": [],
+            "downloadsAvailable": false,
+            "index": "chorus-2022-09-16-04-33"
+        }
+    ],
+    "aggregations": {
+        "created": {
+            "buckets": [
+                {
+                    "key_as_string": "2013",
+                    "key": 1356998400000,
+                    "doc_count": 503693
+                },
+                {
+                    "key_as_string": "2022",
+                    "key": 1640995200000,
+                    "doc_count": 30530
+                },
+                {
+                    "key_as_string": "2020",
+                    "key": 1577836800000,
+                    "doc_count": 9103
+                },
+                {
+                    "key_as_string": "2015",
+                    "key": 1420070400000,
+                    "doc_count": 8844
+                },
+                {
+                    "key_as_string": "2019",
+                    "key": 1546300800000,
+                    "doc_count": 8825
+                },
+                {
+                    "key_as_string": "2017",
+                    "key": 1483228800000,
+                    "doc_count": 8112
+                },
+                {
+                    "key_as_string": "2021",
+                    "key": 1609459200000,
+                    "doc_count": 7360
+                },
+                {
+                    "key_as_string": "2016",
+                    "key": 1451606400000,
+                    "doc_count": 6854
+                },
+                {
+                    "key_as_string": "2018",
+                    "key": 1514764800000,
+                    "doc_count": 6778
+                },
+                {
+                    "key_as_string": "2014",
+                    "key": 1388534400000,
+                    "doc_count": 6502
+                },
+                {
+                    "key_as_string": "1999",
+                    "key": 915148800000,
+                    "doc_count": 789
+                },
+                {
+                    "key_as_string": "2000",
+                    "key": 946684800000,
+                    "doc_count": 462
+                },
+                {
+                    "key_as_string": "1998",
+                    "key": 883612800000,
+                    "doc_count": 423
+                },
+                {
+                    "key_as_string": "1993",
+                    "key": 725846400000,
+                    "doc_count": 395
+                },
+                {
+                    "key_as_string": "1997",
+                    "key": 852076800000,
+                    "doc_count": 373
+                },
+                {
+                    "key_as_string": "1994",
+                    "key": 757382400000,
+                    "doc_count": 371
+                },
+                {
+                    "key_as_string": "1996",
+                    "key": 820454400000,
+                    "doc_count": 363
+                },
+                {
+                    "key_as_string": "1995",
+                    "key": 788918400000,
+                    "doc_count": 355
+                },
+                {
+                    "key_as_string": "2002",
+                    "key": 1009843200000,
+                    "doc_count": 285
+                },
+                {
+                    "key_as_string": "2001",
+                    "key": 978307200000,
+                    "doc_count": 245
+                },
+                {
+                    "key_as_string": "2003",
+                    "key": 1041379200000,
+                    "doc_count": 227
+                },
+                {
+                    "key_as_string": "2004",
+                    "key": 1072915200000,
+                    "doc_count": 202
+                },
+                {
+                    "key_as_string": "2005",
+                    "key": 1104537600000,
+                    "doc_count": 75
+                },
+                {
+                    "key_as_string": "2012",
+                    "key": 1325376000000,
+                    "doc_count": 68
+                },
+                {
+                    "key_as_string": "2008",
+                    "key": 1199145600000,
+                    "doc_count": 34
+                },
+                {
+                    "key_as_string": "2006",
+                    "key": 1136073600000,
+                    "doc_count": 26
+                },
+                {
+                    "key_as_string": "2011",
+                    "key": 1293840000000,
+                    "doc_count": 26
+                },
+                {
+                    "key_as_string": "1992",
+                    "key": 694224000000,
+                    "doc_count": 25
+                },
+                {
+                    "key_as_string": "2009",
+                    "key": 1230768000000,
+                    "doc_count": 21
+                },
+                {
+                    "key_as_string": "2010",
+                    "key": 1262304000000,
+                    "doc_count": 9
+                },
+                {
+                    "key_as_string": "2007",
+                    "key": 1167609600000,
+                    "doc_count": 8
+                },
+                {
+                    "key_as_string": "1981",
+                    "key": 347155200000,
+                    "doc_count": 1
+                },
+                {
+                    "key_as_string": "1989",
+                    "key": 599616000000,
+                    "doc_count": 1
+                }
+            ]
+        },
+        "author": {
+            "doc_count_error_upper_bound": 297,
+            "sum_other_doc_count": 1887069,
+            "buckets": [
+                {
+                    "key": "Russell, C. T.",
+                    "doc_count": 685
+                },
+                {
+                    "key": "Baker, D. N.",
+                    "doc_count": 492
+                },
+                {
+                    "key": "Smith, E. J.",
+                    "doc_count": 446
+                },
+                {
+                    "key": "Gurnett, D. A.",
+                    "doc_count": 392
+                },
+                {
+                    "key": "Chamis, C. C.",
+                    "doc_count": 363
+                },
+                {
+                    "key": "Curtis, S. A.",
+                    "doc_count": 363
+                },
+                {
+                    "key": "Buckley, D. H.",
+                    "doc_count": 332
+                },
+                {
+                    "key": "Einaudi, Franco",
+                    "doc_count": 330
+                },
+                {
+                    "key": "Ness, N. F.",
+                    "doc_count": 328
+                },
+                {
+                    "key": "Mish, W. H.",
+                    "doc_count": 325
+                },
+                {
+                    "key": "Fairfield,  D. H.",
+                    "doc_count": 316
+                },
+                {
+                    "key": "Ocuna, M. H.",
+                    "doc_count": 316
+                },
+                {
+                    "key": "Ogilvie,  K. W.",
+                    "doc_count": 316
+                },
+                {
+                    "key": "Crisp, David",
+                    "doc_count": 315
+                },
+                {
+                    "key": "Tsurutani, B. T.",
+                    "doc_count": 310
+                },
+                {
+                    "key": "Frank, L. A.",
+                    "doc_count": 307
+                },
+                {
+                    "key": "Morris, R. V.",
+                    "doc_count": 303
+                },
+                {
+                    "key": "Wilson, J. W.",
+                    "doc_count": 300
+                },
+                {
+                    "key": "Bar-Cohen, Y.",
+                    "doc_count": 293
+                },
+                {
+                    "key": "Burlaga, L. F.",
+                    "doc_count": 278
+                }
+            ]
+        },
+        "reportNumber": {
+            "doc_count_error_upper_bound": 27,
+            "sum_other_doc_count": 417026,
+            "buckets": [
+                {
+                    "key": "QR-1",
+                    "doc_count": 178
+                },
+                {
+                    "key": "QR-2",
+                    "doc_count": 171
+                },
+                {
+                    "key": "QR-3",
+                    "doc_count": 143
+                },
+                {
+                    "key": "LPI-Contrib-1197",
+                    "doc_count": 99
+                },
+                {
+                    "key": "QPR-2",
+                    "doc_count": 94
+                },
+                {
+                    "key": "QPR-3",
+                    "doc_count": 90
+                },
+                {
+                    "key": "QPR-1",
+                    "doc_count": 86
+                },
+                {
+                    "key": "QR-4",
+                    "doc_count": 83
+                },
+                {
+                    "key": "PR-2",
+                    "doc_count": 70
+                },
+                {
+                    "key": "QR-5",
+                    "doc_count": 68
+                },
+                {
+                    "key": "PR-3",
+                    "doc_count": 60
+                },
+                {
+                    "key": "PR-1",
+                    "doc_count": 57
+                },
+                {
+                    "key": "QPR-4",
+                    "doc_count": 56
+                },
+                {
+                    "key": "AR-1",
+                    "doc_count": 52
+                },
+                {
+                    "key": "PR-5",
+                    "doc_count": 48
+                },
+                {
+                    "key": "QR-7",
+                    "doc_count": 48
+                },
+                {
+                    "key": "QR-6",
+                    "doc_count": 44
+                },
+                {
+                    "key": "REPT-2",
+                    "doc_count": 44
+                },
+                {
+                    "key": "AR-2",
+                    "doc_count": 43
+                },
+                {
+                    "key": "PR-4",
+                    "doc_count": 43
+                }
+            ]
+        },
+        "center": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "CDMS",
+                    "doc_count": 381339
+                },
+                {
+                    "key": "JPL",
+                    "doc_count": 40203
+                },
+                {
+                    "key": "GSFC",
+                    "doc_count": 35939
+                },
+                {
+                    "key": "LaRC",
+                    "doc_count": 20603
+                },
+                {
+                    "key": "MSFC",
+                    "doc_count": 20080
+                },
+                {
+                    "key": "ARC",
+                    "doc_count": 18373
+                },
+                {
+                    "key": "HQ",
+                    "doc_count": 17260
+                },
+                {
+                    "key": "JSC",
+                    "doc_count": 17067
+                },
+                {
+                    "key": "GRC",
+                    "doc_count": 15542
+                },
+                {
+                    "key": "KSC",
+                    "doc_count": 5292
+                },
+                {
+                    "key": "AFRC",
+                    "doc_count": 1832
+                },
+                {
+                    "key": "SSC",
+                    "doc_count": 964
+                },
+                {
+                    "key": "WFF",
+                    "doc_count": 74
+                },
+                {
+                    "key": "2230",
+                    "doc_count": 27
+                },
+                {
+                    "key": "WSTF",
+                    "doc_count": 16
+                }
+            ]
+        },
+        "index": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "submissions-2022-09-16-06-13",
+                    "doc_count": 574611
+                },
+                {
+                    "key": "chorus-2022-09-16-04-33",
+                    "doc_count": 26774
+                }
+            ]
+        },
+        "fundingNumber": {
+            "doc_count_error_upper_bound": 361,
+            "sum_other_doc_count": 419909,
+            "buckets": [
+                {
+                    "key": "NAS7-100",
+                    "doc_count": 8415
+                },
+                {
+                    "key": "NNG11HP16A",
+                    "doc_count": 1202
+                },
+                {
+                    "key": "NAS7-918",
+                    "doc_count": 943
+                },
+                {
+                    "key": "NAS5-26555",
+                    "doc_count": 911
+                },
+                {
+                    "key": "RTOP 505-90-52-01",
+                    "doc_count": 696
+                },
+                {
+                    "key": "NNM11AA01A",
+                    "doc_count": 662
+                },
+                {
+                    "key": "NNH15CO48B",
+                    "doc_count": 641
+                },
+                {
+                    "key": "NNC12BA01B",
+                    "doc_count": 639
+                },
+                {
+                    "key": "NNG06EO90A",
+                    "doc_count": 629
+                },
+                {
+                    "key": "NNL16AA05C",
+                    "doc_count": 595
+                },
+                {
+                    "key": "NNJ13HA01C",
+                    "doc_count": 577
+                },
+                {
+                    "key": "NAS1-18605",
+                    "doc_count": 557
+                },
+                {
+                    "key": "NNG17HP01C",
+                    "doc_count": 495
+                },
+                {
+                    "key": "NAS1-19480",
+                    "doc_count": 488
+                },
+                {
+                    "key": "NAS3-25266",
+                    "doc_count": 473
+                },
+                {
+                    "key": "NNA14AA60C",
+                    "doc_count": 457
+                },
+                {
+                    "key": "NNX17AE79A",
+                    "doc_count": 434
+                },
+                {
+                    "key": "NNH06CC03B",
+                    "doc_count": 427
+                },
+                {
+                    "key": "NNA14AB82C",
+                    "doc_count": 421
+                },
+                {
+                    "key": "NNJ15HK11B",
+                    "doc_count": 419
+                }
+            ]
+        },
+        "published": {
+            "buckets": [
+                {
+                    "key_as_string": "1992",
+                    "key": 694224000000,
+                    "doc_count": 17460
+                },
+                {
+                    "key_as_string": "1993",
+                    "key": 725846400000,
+                    "doc_count": 16378
+                },
+                {
+                    "key_as_string": "1991",
+                    "key": 662688000000,
+                    "doc_count": 15911
+                },
+                {
+                    "key_as_string": "1990",
+                    "key": 631152000000,
+                    "doc_count": 14879
+                },
+                {
+                    "key_as_string": "1985",
+                    "key": 473385600000,
+                    "doc_count": 13205
+                },
+                {
+                    "key_as_string": "1989",
+                    "key": 599616000000,
+                    "doc_count": 13168
+                },
+                {
+                    "key_as_string": "1994",
+                    "key": 757382400000,
+                    "doc_count": 12965
+                },
+                {
+                    "key_as_string": "1988",
+                    "key": 567993600000,
+                    "doc_count": 12684
+                },
+                {
+                    "key_as_string": "1986",
+                    "key": 504921600000,
+                    "doc_count": 12332
+                },
+                {
+                    "key_as_string": "1987",
+                    "key": 536457600000,
+                    "doc_count": 11977
+                },
+                {
+                    "key_as_string": "1984",
+                    "key": 441763200000,
+                    "doc_count": 11827
+                },
+                {
+                    "key_as_string": "1972",
+                    "key": 63072000000,
+                    "doc_count": 11515
+                },
+                {
+                    "key_as_string": "1973",
+                    "key": 94694400000,
+                    "doc_count": 11480
+                },
+                {
+                    "key_as_string": "1970",
+                    "key": 0,
+                    "doc_count": 11459
+                },
+                {
+                    "key_as_string": "1966",
+                    "key": -126230400000,
+                    "doc_count": 11427
+                },
+                {
+                    "key_as_string": "1967",
+                    "key": -94694400000,
+                    "doc_count": 11402
+                },
+                {
+                    "key_as_string": "1968",
+                    "key": -63158400000,
+                    "doc_count": 11259
+                },
+                {
+                    "key_as_string": "1969",
+                    "key": -31536000000,
+                    "doc_count": 11132
+                },
+                {
+                    "key_as_string": "1982",
+                    "key": 378691200000,
+                    "doc_count": 10646
+                },
+                {
+                    "key_as_string": "1974",
+                    "key": 126230400000,
+                    "doc_count": 10465
+                },
+                {
+                    "key_as_string": "1981",
+                    "key": 347155200000,
+                    "doc_count": 10451
+                },
+                {
+                    "key_as_string": "1980",
+                    "key": 315532800000,
+                    "doc_count": 10432
+                },
+                {
+                    "key_as_string": "2019",
+                    "key": 1546300800000,
+                    "doc_count": 10421
+                },
+                {
+                    "key_as_string": "1975",
+                    "key": 157766400000,
+                    "doc_count": 10415
+                },
+                {
+                    "key_as_string": "1971",
+                    "key": 31536000000,
+                    "doc_count": 10408
+                },
+                {
+                    "key_as_string": "1983",
+                    "key": 410227200000,
+                    "doc_count": 10353
+                },
+                {
+                    "key_as_string": "1977",
+                    "key": 220924800000,
+                    "doc_count": 9994
+                },
+                {
+                    "key_as_string": "1979",
+                    "key": 283996800000,
+                    "doc_count": 9828
+                },
+                {
+                    "key_as_string": "1995",
+                    "key": 788918400000,
+                    "doc_count": 9694
+                },
+                {
+                    "key_as_string": "2018",
+                    "key": 1514764800000,
+                    "doc_count": 9557
+                },
+                {
+                    "key_as_string": "1978",
+                    "key": 252460800000,
+                    "doc_count": 9489
+                },
+                {
+                    "key_as_string": "1976",
+                    "key": 189302400000,
+                    "doc_count": 9463
+                },
+                {
+                    "key_as_string": "2016",
+                    "key": 1451606400000,
+                    "doc_count": 9290
+                },
+                {
+                    "key_as_string": "1965",
+                    "key": -157766400000,
+                    "doc_count": 9239
+                },
+                {
+                    "key_as_string": "2017",
+                    "key": 1483228800000,
+                    "doc_count": 9239
+                },
+                {
+                    "key_as_string": "2003",
+                    "key": 1041379200000,
+                    "doc_count": 9026
+                },
+                {
+                    "key_as_string": "2000",
+                    "key": 946684800000,
+                    "doc_count": 8993
+                },
+                {
+                    "key_as_string": "1999",
+                    "key": 915148800000,
+                    "doc_count": 8670
+                },
+                {
+                    "key_as_string": "2002",
+                    "key": 1009843200000,
+                    "doc_count": 8532
+                },
+                {
+                    "key_as_string": "2001",
+                    "key": 978307200000,
+                    "doc_count": 8390
+                },
+                {
+                    "key_as_string": "2020",
+                    "key": 1577836800000,
+                    "doc_count": 8270
+                },
+                {
+                    "key_as_string": "2004",
+                    "key": 1072915200000,
+                    "doc_count": 8251
+                },
+                {
+                    "key_as_string": "2012",
+                    "key": 1325376000000,
+                    "doc_count": 7608
+                },
+                {
+                    "key_as_string": "2011",
+                    "key": 1293840000000,
+                    "doc_count": 7387
+                },
+                {
+                    "key_as_string": "2015",
+                    "key": 1420070400000,
+                    "doc_count": 6985
+                },
+                {
+                    "key_as_string": "1998",
+                    "key": 883612800000,
+                    "doc_count": 6845
+                },
+                {
+                    "key_as_string": "1996",
+                    "key": 820454400000,
+                    "doc_count": 6811
+                },
+                {
+                    "key_as_string": "1997",
+                    "key": 852076800000,
+                    "doc_count": 6616
+                },
+                {
+                    "key_as_string": "2005",
+                    "key": 1104537600000,
+                    "doc_count": 6569
+                },
+                {
+                    "key_as_string": "2021",
+                    "key": 1609459200000,
+                    "doc_count": 6341
+                },
+                {
+                    "key_as_string": "2014",
+                    "key": 1388534400000,
+                    "doc_count": 6172
+                },
+                {
+                    "key_as_string": "2010",
+                    "key": 1262304000000,
+                    "doc_count": 5998
+                },
+                {
+                    "key_as_string": "2013",
+                    "key": 1356998400000,
+                    "doc_count": 5686
+                },
+                {
+                    "key_as_string": "2006",
+                    "key": 1136073600000,
+                    "doc_count": 5230
+                },
+                {
+                    "key_as_string": "1964",
+                    "key": -189388800000,
+                    "doc_count": 5030
+                },
+                {
+                    "key_as_string": "2007",
+                    "key": 1167609600000,
+                    "doc_count": 4804
+                },
+                {
+                    "key_as_string": "2008",
+                    "key": 1199145600000,
+                    "doc_count": 4679
+                },
+                {
+                    "key_as_string": "2009",
+                    "key": 1230768000000,
+                    "doc_count": 4285
+                },
+                {
+                    "key_as_string": "1963",
+                    "key": -220924800000,
+                    "doc_count": 3646
+                },
+                {
+                    "key_as_string": "2022",
+                    "key": 1640995200000,
+                    "doc_count": 2806
+                },
+                {
+                    "key_as_string": "1962",
+                    "key": -252460800000,
+                    "doc_count": 2422
+                },
+                {
+                    "key_as_string": "1961",
+                    "key": -283996800000,
+                    "doc_count": 1390
+                },
+                {
+                    "key_as_string": "1955",
+                    "key": -473385600000,
+                    "doc_count": 964
+                },
+                {
+                    "key_as_string": "1956",
+                    "key": -441849600000,
+                    "doc_count": 936
+                },
+                {
+                    "key_as_string": "1957",
+                    "key": -410227200000,
+                    "doc_count": 903
+                },
+                {
+                    "key_as_string": "1952",
+                    "key": -568080000000,
+                    "doc_count": 902
+                },
+                {
+                    "key_as_string": "1951",
+                    "key": -599616000000,
+                    "doc_count": 899
+                },
+                {
+                    "key_as_string": "1953",
+                    "key": -536457600000,
+                    "doc_count": 892
+                },
+                {
+                    "key_as_string": "1958",
+                    "key": -378691200000,
+                    "doc_count": 888
+                },
+                {
+                    "key_as_string": "1954",
+                    "key": -504921600000,
+                    "doc_count": 885
+                },
+                {
+                    "key_as_string": "1948",
+                    "key": -694310400000,
+                    "doc_count": 802
+                },
+                {
+                    "key_as_string": "1950",
+                    "key": -631152000000,
+                    "doc_count": 752
+                },
+                {
+                    "key_as_string": "1947",
+                    "key": -725846400000,
+                    "doc_count": 749
+                },
+                {
+                    "key_as_string": "1960",
+                    "key": -315619200000,
+                    "doc_count": 747
+                },
+                {
+                    "key_as_string": "1949",
+                    "key": -662688000000,
+                    "doc_count": 672
+                },
+                {
+                    "key_as_string": "1959",
+                    "key": -347155200000,
+                    "doc_count": 547
+                },
+                {
+                    "key_as_string": "1944",
+                    "key": -820540800000,
+                    "doc_count": 429
+                },
+                {
+                    "key_as_string": "1945",
+                    "key": -788918400000,
+                    "doc_count": 424
+                },
+                {
+                    "key_as_string": "1946",
+                    "key": -757382400000,
+                    "doc_count": 359
+                },
+                {
+                    "key_as_string": "1943",
+                    "key": -852076800000,
+                    "doc_count": 345
+                },
+                {
+                    "key_as_string": "1942",
+                    "key": -883612800000,
+                    "doc_count": 306
+                },
+                {
+                    "key_as_string": "1941",
+                    "key": -915148800000,
+                    "doc_count": 196
+                },
+                {
+                    "key_as_string": "1939",
+                    "key": -978307200000,
+                    "doc_count": 175
+                },
+                {
+                    "key_as_string": "1922",
+                    "key": -1514764800000,
+                    "doc_count": 169
+                },
+                {
+                    "key_as_string": "1923",
+                    "key": -1483228800000,
+                    "doc_count": 167
+                },
+                {
+                    "key_as_string": "1931",
+                    "key": -1230768000000,
+                    "doc_count": 155
+                },
+                {
+                    "key_as_string": "1937",
+                    "key": -1041379200000,
+                    "doc_count": 153
+                },
+                {
+                    "key_as_string": "1940",
+                    "key": -946771200000,
+                    "doc_count": 152
+                },
+                {
+                    "key_as_string": "1938",
+                    "key": -1009843200000,
+                    "doc_count": 141
+                },
+                {
+                    "key_as_string": "1932",
+                    "key": -1199232000000,
+                    "doc_count": 140
+                },
+                {
+                    "key_as_string": "1930",
+                    "key": -1262304000000,
+                    "doc_count": 138
+                },
+                {
+                    "key_as_string": "1928",
+                    "key": -1325462400000,
+                    "doc_count": 135
+                },
+                {
+                    "key_as_string": "1927",
+                    "key": -1356998400000,
+                    "doc_count": 132
+                },
+                {
+                    "key_as_string": "1933",
+                    "key": -1167609600000,
+                    "doc_count": 131
+                },
+                {
+                    "key_as_string": "1921",
+                    "key": -1546300800000,
+                    "doc_count": 126
+                },
+                {
+                    "key_as_string": "1929",
+                    "key": -1293840000000,
+                    "doc_count": 126
+                },
+                {
+                    "key_as_string": "1926",
+                    "key": -1388534400000,
+                    "doc_count": 123
+                },
+                {
+                    "key_as_string": "1924",
+                    "key": -1451692800000,
+                    "doc_count": 117
+                },
+                {
+                    "key_as_string": "1936",
+                    "key": -1073001600000,
+                    "doc_count": 113
+                },
+                {
+                    "key_as_string": "1934",
+                    "key": -1136073600000,
+                    "doc_count": 108
+                },
+                {
+                    "key_as_string": "1935",
+                    "key": -1104537600000,
+                    "doc_count": 97
+                },
+                {
+                    "key_as_string": "1925",
+                    "key": -1420070400000,
+                    "doc_count": 94
+                },
+                {
+                    "key_as_string": "1920",
+                    "key": -1577923200000,
+                    "doc_count": 84
+                },
+                {
+                    "key_as_string": "1917",
+                    "key": -1672531200000,
+                    "doc_count": 14
+                },
+                {
+                    "key_as_string": "1918",
+                    "key": -1640995200000,
+                    "doc_count": 14
+                },
+                {
+                    "key_as_string": "1919",
+                    "key": -1609459200000,
+                    "doc_count": 9
+                },
+                {
+                    "key_as_string": "1914",
+                    "key": -1767225600000,
+                    "doc_count": 1
+                },
+                {
+                    "key_as_string": "1916",
+                    "key": -1704153600000,
+                    "doc_count": 1
+                },
+                {
+                    "key_as_string": "2023",
+                    "key": 1672531200000,
+                    "doc_count": 1
+                }
+            ]
+        },
+        "distribution": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "PUBLIC",
+                    "doc_count": 601385
+                }
+            ]
+        },
+        "stiType": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 95,
+            "buckets": [
+                {
+                    "key": "CONFERENCE_PAPER",
+                    "doc_count": 162278
+                },
+                {
+                    "key": "REPRINT",
+                    "doc_count": 141052
+                },
+                {
+                    "key": "OTHER",
+                    "doc_count": 98546
+                },
+                {
+                    "key": "CONTRACTOR_REPORT",
+                    "doc_count": 70044
+                },
+                {
+                    "key": "PRESENTATION",
+                    "doc_count": 31763
+                },
+                {
+                    "key": "TECHNICAL_MEMORANDUM",
+                    "doc_count": 28076
+                },
+                {
+                    "key": "PREPRINT",
+                    "doc_count": 25158
+                },
+                {
+                    "key": "CONFERENCE_PROCEEDINGS",
+                    "doc_count": 16288
+                },
+                {
+                    "key": "ACCEPTED_MANUSCRIPT",
+                    "doc_count": 11799
+                },
+                {
+                    "key": "TECHNICAL_PUBLICATION",
+                    "doc_count": 3414
+                },
+                {
+                    "key": "CONTRACTOR_OR_GRANTEE_REPORT",
+                    "doc_count": 3108
+                },
+                {
+                    "key": "VIDEO",
+                    "doc_count": 2414
+                },
+                {
+                    "key": "THESIS_DISSERTATION",
+                    "doc_count": 1793
+                },
+                {
+                    "key": "POSTER",
+                    "doc_count": 1364
+                },
+                {
+                    "key": "SPECIAL_PUBLICATION",
+                    "doc_count": 1207
+                },
+                {
+                    "key": "TECHNICAL_TRANSLATION",
+                    "doc_count": 1079
+                },
+                {
+                    "key": "BOOK_CHAPTER",
+                    "doc_count": 895
+                },
+                {
+                    "key": "BOOK",
+                    "doc_count": 705
+                },
+                {
+                    "key": "WHITE_PAPER",
+                    "doc_count": 193
+                },
+                {
+                    "key": "CONTRIBUTION_TO_LARGER_WORK",
+                    "doc_count": 114
+                }
+            ]
+        },
+        "subjectCategory": {
+            "doc_count_error_upper_bound": 3740,
+            "sum_other_doc_count": 355437,
+            "buckets": [
+                {
+                    "key": "GEOPHYSICS",
+                    "doc_count": 21787
+                },
+                {
+                    "key": "ASTROPHYSICS",
+                    "doc_count": 16543
+                },
+                {
+                    "key": "LUNAR AND PLANETARY EXPLORATION",
+                    "doc_count": 14366
+                },
+                {
+                    "key": "Lunar and Planetary Science and Exploration",
+                    "doc_count": 13064
+                },
+                {
+                    "key": "SPACE SCIENCES",
+                    "doc_count": 12708
+                },
+                {
+                    "key": "AERODYNAMICS",
+                    "doc_count": 12638
+                },
+                {
+                    "key": "INSTRUMENTATION AND PHOTOGRAPHY",
+                    "doc_count": 10563
+                },
+                {
+                    "key": "EARTH RESOURCES AND REMOTE SENSING",
+                    "doc_count": 10125
+                },
+                {
+                    "key": "STRUCTURAL MECHANICS",
+                    "doc_count": 10124
+                },
+                {
+                    "key": "Earth Resources and Remote Sensing",
+                    "doc_count": 9720
+                },
+                {
+                    "key": "Meteorology and Climatology",
+                    "doc_count": 8900
+                },
+                {
+                    "key": "FLUID MECHANICS AND HEAT TRANSFER",
+                    "doc_count": 8751
+                },
+                {
+                    "key": "Life Sciences (General)",
+                    "doc_count": 7870
+                },
+                {
+                    "key": "SPACE RADIATION",
+                    "doc_count": 7401
+                },
+                {
+                    "key": "Man/System Technology and Life Support",
+                    "doc_count": 7334
+                },
+                {
+                    "key": "METEOROLOGY AND CLIMATOLOGY",
+                    "doc_count": 6993
+                },
+                {
+                    "key": "Astrophysics",
+                    "doc_count": 6554
+                },
+                {
+                    "key": "ASTRONOMY",
+                    "doc_count": 6446
+                },
+                {
+                    "key": "ENERGY PRODUCTION AND CONVERSION",
+                    "doc_count": 6426
+                },
+                {
+                    "key": "Astronomy",
+                    "doc_count": 6269
+                }
+            ]
+        },
+        "disseminated": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "DOCUMENT_AND_METADATA",
+                    "doc_count": 314472
+                },
+                {
+                    "key": "METADATA_ONLY",
+                    "doc_count": 286913
+                }
+            ]
+        },
+        "stiTypeDetails": {
+            "doc_count_error_upper_bound": 92,
+            "sum_other_doc_count": 11194,
+            "buckets": [
+                {
+                    "key": "Conference Paper",
+                    "doc_count": 162278
+                },
+                {
+                    "key": "Reprint (Version printed in journal)",
+                    "doc_count": 123670
+                },
+                {
+                    "key": "Contractor Report (CR)",
+                    "doc_count": 70044
+                },
+                {
+                    "key": "Other",
+                    "doc_count": 49429
+                },
+                {
+                    "key": "Presentation",
+                    "doc_count": 31763
+                },
+                {
+                    "key": "Technical Memorandum (TM)",
+                    "doc_count": 28076
+                },
+                {
+                    "key": "Preprint (Draft being sent to journal)",
+                    "doc_count": 25158
+                },
+                {
+                    "key": "Other - NASA Tech Brief",
+                    "doc_count": 24021
+                },
+                {
+                    "key": "Version of Record",
+                    "doc_count": 17382
+                },
+                {
+                    "key": "Conference Proceedings",
+                    "doc_count": 16288
+                },
+                {
+                    "key": "Accepted Manuscript",
+                    "doc_count": 9392
+                },
+                {
+                    "key": "Other - Patent",
+                    "doc_count": 8831
+                },
+                {
+                    "key": "Other - NASA Technical Note (TN)",
+                    "doc_count": 6884
+                },
+                {
+                    "key": "Technical Publication (TP)",
+                    "doc_count": 3414
+                },
+                {
+                    "key": "Contractor or Grantee Report",
+                    "doc_count": 3108
+                },
+                {
+                    "key": "Other - Other",
+                    "doc_count": 2475
+                },
+                {
+                    "key": "Video",
+                    "doc_count": 2414
+                },
+                {
+                    "key": "Accepted Manuscript (Version with final changes)",
+                    "doc_count": 2407
+                },
+                {
+                    "key": "Thesis/Dissertation",
+                    "doc_count": 1793
+                },
+                {
+                    "key": "Poster",
+                    "doc_count": 1364
+                }
+            ]
+        },
+        "organization": {
+            "doc_count_error_upper_bound": 2198,
+            "sum_other_doc_count": 566391,
+            "buckets": [
+                {
+                    "key": "NASA Goddard Space Flight Center",
+                    "doc_count": 48385
+                },
+                {
+                    "key": "NASA Langley Research Center",
+                    "doc_count": 36525
+                },
+                {
+                    "key": "NASA Ames Research Center",
+                    "doc_count": 29086
+                },
+                {
+                    "key": "Jet Propulsion Lab., California Inst. of Tech.",
+                    "doc_count": 25185
+                },
+                {
+                    "key": "NASA Lewis Research Center",
+                    "doc_count": 24586
+                },
+                {
+                    "key": "NASA Marshall Space Flight Center",
+                    "doc_count": 23931
+                },
+                {
+                    "key": "NASA Johnson Space Center",
+                    "doc_count": 15683
+                },
+                {
+                    "key": "",
+                    "doc_count": 13216
+                },
+                {
+                    "key": "NASA Glenn Research Center",
+                    "doc_count": 12148
+                },
+                {
+                    "key": "California Univ.",
+                    "doc_count": 10263
+                },
+                {
+                    "key": "NASA Headquarters",
+                    "doc_count": 7932
+                },
+                {
+                    "key": "California, University",
+                    "doc_count": 7262
+                },
+                {
+                    "key": "California Inst. of Tech.",
+                    "doc_count": 5396
+                },
+                {
+                    "key": "Alabama Univ.",
+                    "doc_count": 5015
+                },
+                {
+                    "key": "California Institute of Technology, Jet Propulsion Laboratory, Pasadena",
+                    "doc_count": 4981
+                },
+                {
+                    "key": "Universities Space Research Association",
+                    "doc_count": 4965
+                },
+                {
+                    "key": "California Institute of Technology",
+                    "doc_count": 4954
+                },
+                {
+                    "key": "Massachusetts Inst. of Tech.",
+                    "doc_count": 4888
+                },
+                {
+                    "key": "Maryland Univ.",
+                    "doc_count": 4823
+                },
+                {
+                    "key": "NASA Lyndon B. Johnson Space Center",
+                    "doc_count": 4245
+                }
+            ]
+        },
+        "modified": {
+            "buckets": [
+                {
+                    "key_as_string": "2011",
+                    "key": 1293840000000,
+                    "doc_count": 275487
+                },
+                {
+                    "key_as_string": "2013",
+                    "key": 1356998400000,
+                    "doc_count": 200819
+                },
+                {
+                    "key_as_string": "2022",
+                    "key": 1640995200000,
+                    "doc_count": 44795
+                },
+                {
+                    "key_as_string": "2014",
+                    "key": 1388534400000,
+                    "doc_count": 17515
+                },
+                {
+                    "key_as_string": "2021",
+                    "key": 1609459200000,
+                    "doc_count": 8374
+                },
+                {
+                    "key_as_string": "2012",
+                    "key": 1325376000000,
+                    "doc_count": 5462
+                },
+                {
+                    "key_as_string": "2020",
+                    "key": 1577836800000,
+                    "doc_count": 3839
+                },
+                {
+                    "key_as_string": "2018",
+                    "key": 1514764800000,
+                    "doc_count": 2145
+                },
+                {
+                    "key_as_string": "2016",
+                    "key": 1451606400000,
+                    "doc_count": 2083
+                },
+                {
+                    "key_as_string": "2019",
+                    "key": 1546300800000,
+                    "doc_count": 1699
+                },
+                {
+                    "key_as_string": "2015",
+                    "key": 1420070400000,
+                    "doc_count": 1297
+                },
+                {
+                    "key_as_string": "2017",
+                    "key": 1483228800000,
+                    "doc_count": 1278
+                }
+            ]
+        },
+        "keyword": {
+            "doc_count_error_upper_bound": 496,
+            "sum_other_doc_count": 335133,
+            "buckets": [
+                {
+                    "key": "space and planetary science",
+                    "doc_count": 10340
+                },
+                {
+                    "key": "astronomy and astrophysics",
+                    "doc_count": 6762
+                },
+                {
+                    "key": "geophysics",
+                    "doc_count": 5436
+                },
+                {
+                    "key": "Non-NASA Center",
+                    "doc_count": 5205
+                },
+                {
+                    "key": "general earth and planetary sciences",
+                    "doc_count": 2642
+                },
+                {
+                    "key": "atmospheric science",
+                    "doc_count": 2595
+                },
+                {
+                    "key": "earth and planetary sciences (miscellaneous)",
+                    "doc_count": 1724
+                },
+                {
+                    "key": "geochemistry and petrology",
+                    "doc_count": 1344
+                },
+                {
+                    "key": "NASA Discipline Exobiology",
+                    "doc_count": 1029
+                },
+                {
+                    "key": "general physics and astronomy",
+                    "doc_count": 965
+                },
+                {
+                    "key": "electrical and electronic engineering",
+                    "doc_count": 906
+                },
+                {
+                    "key": "Review",
+                    "doc_count": 829
+                },
+                {
+                    "key": "Mars",
+                    "doc_count": 782
+                },
+                {
+                    "key": "ecology, evolution, behavior and systematics",
+                    "doc_count": 757
+                },
+                {
+                    "key": "NASA Discipline Plant Biology",
+                    "doc_count": 754
+                },
+                {
+                    "key": "Flight Experiment",
+                    "doc_count": 700
+                },
+                {
+                    "key": "condensed matter physics",
+                    "doc_count": 696
+                },
+                {
+                    "key": "general materials science",
+                    "doc_count": 691
+                },
+                {
+                    "key": "Review, Tutorial",
+                    "doc_count": 666
+                },
+                {
+                    "key": "ecology",
+                    "doc_count": 662
+                }
+            ]
+        }
+    }
+}
