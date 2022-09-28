@@ -3,13 +3,6 @@ body {
  padding: 0px;
 }
 
-.centergif {
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
 .centerimage {
     width: 70%;
     position: absolute;
@@ -39,18 +32,15 @@ body {
     border: none;
     color: rgb(0, 0, 0);
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     padding: 4px 16px;
     cursor: pointer;
-    border: solid 1px #000000;
-    border-style: dotted;
 
 }
 .button1 {background-color: #ffffff;} /* Green */
 .button1:hover{
-    background-color: hsl(0, 0%, 100%);
-    color: rgb(0, 0, 0);
-    border: solid 1px #000000;
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
 }
 
 .file-upload {
@@ -60,33 +50,11 @@ body {
     padding: 4px 16px;
     font-size: 16px;
     cursor: pointer;
-    border: solid 1px #000000;
-    border-style: dotted;
-
-
 }
 
 .file-upload:hover {
-    background-color: hsl(0, 0%, 100%);
-    color: rgb(0, 0, 0);
-    border: solid 1px #000000;
-}
-
-.centerbunny {
-    width: 40%;
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-
-}
-
-.centersearching {
-    width: 40%;
-    position: absolute;
-    top: 62%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
 }
 
 input[type='file'] {
