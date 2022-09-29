@@ -20,11 +20,11 @@
     </body>
 <!-- JS to save the file pathing.-->
 <script>
+    import { exec } from 'child_process';
     function saveFile() {
         var x = document.getElementById("inputfile").value;
         document.getElementById("filepathing").innerHTML = x;
     }
-
 </script>
 
 </form>
