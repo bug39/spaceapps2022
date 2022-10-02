@@ -27,7 +27,11 @@ function set() {
    localStorage.setItem("storageName",getInput);
    document.getElementById("randomNumber").innerHTML = getInput
 }
-
+import { exec } from 'child_process';
+function saveFile() {
+    var x = document.getElementById("inputfile").value;
+    document.getElementById("filepathing").innerHTML = x;
+}
 </script>
 
 </form>
